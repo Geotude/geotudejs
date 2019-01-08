@@ -1,2 +1,2 @@
-# posttudejs
-A javascript implementation of Posttude.
+# geotudejs
+A javascript implementation of Geotude.
